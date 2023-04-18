@@ -30,3 +30,7 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 
 - [Gifox](https://gifox.app) - **$14.99** - Clean UI, hotkeys, lots of advanced features.
 - [Gifski](https://github.com/sindresorhus/Gifski#readme) - **FREE** - More vivid colors than the rest, but still keep size low.
+
+## for chekbox or radio button
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
