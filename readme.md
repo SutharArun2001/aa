@@ -34,3 +34,9 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 ## for chekbox or radio button
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
+
+## for table
+First Header | Second Header
+------------ | -------------
+cell 1 | cell 2
+cell 3 | cell 4
