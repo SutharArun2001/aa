@@ -37,4 +37,4 @@ Embedding an animated gif in your README quickly demonstrates what your project 
 First Header | Second Header
 ------------ | -------------
 cell 1 | cell 2
-cell 3 | cell 4
+cell 3 | cell 4a
